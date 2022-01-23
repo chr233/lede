@@ -1,0 +1,6 @@
+[submodule "package/luci-theme-argon"]
+	path = package/luci-theme-argon
+	url = git@github.com:jerrykuku/luci-theme-argon.git
+[submodule "package/OpenClash"]
+	path = package/OpenClash
+	url = git@github.com:vernesong/OpenClash
